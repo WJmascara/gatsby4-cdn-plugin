@@ -11,7 +11,7 @@
     "gatsby",
     "gatsby-plugin"
   ],
-  "author": "Kyle Gill <kyle.robert.gill@gmail.com>",
+  "author": "mascara",
   "license": "0BSD",
   "dependencies": {
     "@babel/generator": "^7.20.4",
