@@ -1,6 +1,6 @@
 {
   "name": "gatsby4-cdn-plugin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A minimal boilerplate for the essential files Gatsby looks for in a plugin",
   "main": "index.js",
   "scripts": {
@@ -17,13 +17,12 @@
     "@babel/generator": "^7.20.4",
     "@babel/parser": "^7.20.3",
     "@babel/traverse": "^7.20.1",
+    "ansi-colors": "^4.1.3",
+    "cli-progress": "^3.11.2",
     "glob": "^8.0.3",
     "md5": "^2.3.0"
   },
-  "devDependencies": {
-    "ansi-colors": "^4.1.3",
-    "cli-progress": "^3.11.2"
-  },
+  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git@github.com:WJmascara/gatsby4-cdn-plugin.git"
